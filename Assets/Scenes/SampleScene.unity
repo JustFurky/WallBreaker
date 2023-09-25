@@ -2029,6 +2029,26 @@ PrefabInstance:
       propertyPath: _joystick
       value: 
       objectReference: {fileID: 556889582}
+    - target: {fileID: 244660707920905788, guid: 8a83489aa0ef1894394583044749a3e6,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 244660707920905788, guid: 8a83489aa0ef1894394583044749a3e6,
+        type: 3}
+      propertyPath: m_Center.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 244660707920905788, guid: 8a83489aa0ef1894394583044749a3e6,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 244660707920905788, guid: 8a83489aa0ef1894394583044749a3e6,
+        type: 3}
+      propertyPath: m_Center.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3783266857933548609, guid: 8a83489aa0ef1894394583044749a3e6,
         type: 3}
       propertyPath: m_Name
@@ -2042,7 +2062,7 @@ PrefabInstance:
     - target: {fileID: 4596782710601774843, guid: 8a83489aa0ef1894394583044749a3e6,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.126
       objectReference: {fileID: 0}
     - target: {fileID: 4596782710601774843, guid: 8a83489aa0ef1894394583044749a3e6,
         type: 3}

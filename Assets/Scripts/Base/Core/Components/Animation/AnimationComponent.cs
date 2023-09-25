@@ -1,6 +1,8 @@
 using System.Collections;
 using UnityEngine;
 using WB.Base.Core.Components.MovementComponent;
+using WB.Base.Core.Components.TriggerComponent;
+using WB.Base.Core.BaseClass.AnimationBase;
 
 [RequireComponent(typeof(MovementComponent))]
 [RequireComponent(typeof(TriggerComponent))]
