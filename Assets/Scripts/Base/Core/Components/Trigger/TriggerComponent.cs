@@ -31,7 +31,7 @@ namespace WB.Base.Core.Components.TriggerComponent
         /// <summary>
         /// Get DataManager from DI. We use this manager for getting player data
         /// </summary>
-        /// <param name="manager"></param>
+        
         [Inject]
         private void GetManager(DataManager manager)
         {
@@ -95,5 +95,4 @@ namespace WB.Base.Core.Components.TriggerComponent
             }
         }
     }
-
 }
